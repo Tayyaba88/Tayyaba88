@@ -108,7 +108,7 @@
 <h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tayyaba-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/tayaba-s/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:tayyababhutta101@gmail.com">
