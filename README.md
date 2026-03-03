@@ -41,7 +41,7 @@
   <li>🌊 Currently exploring <b>advanced Solana development</b> — Token-2022, transfer hooks, reflection mechanics.</li>
   <li>🤝 Open to <b>collaborations on impactful blockchain applications</b>, from smart contracts to protocol design.</li>
   <li>📫 Reach me at: <a href="mailto:tayyababhutta101@gmail.com"><b>tayyababhutta101@gmail.com</b></a></li>
-  <li>📫 Reach me at: <a href="mailto:https://www.linkedin.com/in/tayaba-s/"><b>https://www.linkedin.com/in/tayaba-s</b></a></li>
+  <li>📫 Reach me at: <a href="https://www.linkedin.com/in/tayaba-s/"><b>https://www.linkedin.com/in/tayaba-s</b></a></li>
   <li>⚡ Fun fact: I run on <b>coffee, commits, and chain reorgs</b> 😅</li>
 </ul>
 
